@@ -1,2 +1,2 @@
 # Readme-Hacktober
-add readme data below 
+add readme data below and hacktober
